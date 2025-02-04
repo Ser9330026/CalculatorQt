@@ -1,1 +1,3 @@
 # CalculatorQt
+# CalcQTCPP
+# CalcQTCPP
