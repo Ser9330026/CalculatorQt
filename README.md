@@ -2,3 +2,4 @@
 # CalcQTCPP
 # CalcQTCPP
 # CalcQTCPP
+# MyCalculator
